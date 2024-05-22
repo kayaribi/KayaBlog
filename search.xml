@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>HEXO上課心得</title>
-    <url>/kayaBlog/2024/05/22/HEXO%E4%B8%8A%E8%AA%B2%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<p>在洧杰校長上課前進觀看進度已經有超越HEXO的課程，所以今天再來複習校長的一些重點。</p>
-<span id="more"></span>
-<p>很喜歡校長上課的時候帶著大家一起動手做的氛圍，更喜歡校長翻車的時候一步步的解決問題XD<br>在之前看課程的時候覺得NEXT的版面還不錯看，所以試著套用主題，很順利的完成了版型，接著上網找剛好看到了這篇<a href="https://moon-jam.me/NexT-sidebar-basic/">Moon Jam</a>的文章，裡面有一些簡單易懂的NEXT主題優化，所以有了個樣子，未來再來看可以增加些什麼，我要趕快去做每日任務啦!</p>
-]]></content>
-      <tags>
-        <tag>前端</tag>
-        <tag>課程進度</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>上課進度</title>
     <url>/kayaBlog/2024/05/05/%E4%B8%8A%E8%AA%B2%E9%80%B2%E5%BA%A6/</url>
     <content><![CDATA[<p>今天上課進度至Hexo，部落格架站任務完成，試著將個人部落格上傳至GitHub</p>
@@ -39,6 +27,18 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>HEXO上課心得</title>
+    <url>/kayaBlog/2024/05/22/HEXO%E4%B8%8A%E8%AA%B2%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<p>在洧杰校長上課前進觀看進度已經有超越HEXO的課程，所以今天再來複習校長的一些重點。</p>
+<span id="more"></span>
+<p>很喜歡校長上課的時候帶著大家一起動手做的氛圍，更喜歡校長翻車的時候一步步的解決問題XD<br>在之前看課程的時候覺得NEXT的版面還不錯看，所以試著套用主題並且很順利的完成了版型，接著上網找剛好看到了這篇<a href="https://moon-jam.me/NexT-sidebar-basic/">Moon Jam</a>的文章，裡面有一些簡單易懂的NEXT主題優化，所以有了個樣子，未來再來看可以增加些什麼，我要趕快去做每日任務啦!</p>
+]]></content>
+      <tags>
+        <tag>前端</tag>
+        <tag>課程進度</tag>
+      </tags>
   </entry>
   <entry>
     <title>天氣觀察日記</title>
